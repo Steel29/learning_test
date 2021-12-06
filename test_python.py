@@ -1,3 +1,3 @@
-print("hello world!")
+import numpy as np
 
-print("i am putting some stuffs")
+print(np.random.randn(2,2))
